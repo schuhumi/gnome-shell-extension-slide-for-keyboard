@@ -1,1 +1,1 @@
-{"name": "Slide for Keyboard", "uuid": "slideforkeyboard@simon.schumann.web.de", "description": "Shows virtual keyboard with a slide from the bottom screen edge", "shell-version": ["3.18"]}
+{"name": "Slide for Keyboard", "uuid": "slideforkeyboard@simon.schumann.web.de", "description": "Shows virtual keyboard with a slide from the bottom screen edge", "shell-version": ["3.16", "3.18"]}
